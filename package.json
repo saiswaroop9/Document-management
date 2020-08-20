@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "acl": "^0.4.9",
-    "bcrypt": "^0.8.7",
+    "bcrypt": "^5.0.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.2",
     "chai": "^3.5.0",
